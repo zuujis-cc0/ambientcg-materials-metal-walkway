@@ -1,5 +1,20 @@
 {
- "assets": {},
+ "assets": {
+  "MetalWalkway001": "9d65047819c1551776c5a0be0838d6fbde31c9d9",
+  "MetalWalkway002": "5b4356d30b59273b026703ab7f7cd05c1deec262",
+  "MetalWalkway003": "e39f9531aeb3227738c07d46c711c10a816a132d",
+  "MetalWalkway004": "201415691282da00006c66020aee3f0f0bb067c6",
+  "MetalWalkway005": "1cea0c5f3db8ba168aba603ae9a2a705e3ad9bb3",
+  "MetalWalkway006": "25d9af77cc8bbd158c6dddb967d0c99257abf812",
+  "MetalWalkway007": "c99867a9fd1508da4a4c501017646f1de3d41ac4",
+  "MetalWalkway008": "3f57f9f7c46045bbdd5829cf03f069bd579e4292",
+  "MetalWalkway009": "6da38be9e0c7c45e40deb75436cca528f0e45e0c",
+  "MetalWalkway010": "7848849c9a55ed01510865e86b673b43b64902b2",
+  "MetalWalkway011": "97abc9ea42ed43ba5ea162efe7b300e39c5506e8",
+  "MetalWalkway012": "64998cccc81b812b0bd43db6b40e1f4dc26da65e",
+  "MetalWalkway013": "883784412ef3d123ea9acfb1520cb6de4b29b478",
+  "MetalWalkway014": "537b4a2557061ea175cfc15568a50ca3ca51e062"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",

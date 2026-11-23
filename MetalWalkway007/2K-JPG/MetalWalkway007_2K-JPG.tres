@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=6 format=3 uid="acg_omu2ktfl"]
+
+[ext_resource type="Texture2D" uid="uid://acg_9q6nofcv" id="Color" path="./MetalWalkway007_2K-JPG_Color.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_forh07dx" id="Metalness" path="./MetalWalkway007_2K-JPG_Metalness.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_3bg20zqo" id="Displacement" path="./MetalWalkway007_2K-JPG_Displacement.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_5s4dqyvj" id="Roughness" path="./MetalWalkway007_2K-JPG_Roughness.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_vnqsx5ai" id="NormalGL" path="./MetalWalkway007_2K-JPG_NormalGL.jpg"]
+[resource]
+albedo_texture = ExtResource("Color")
+metallic_texture = ExtResource("Metalness")
+metallic = 1.0
+metallic_texture_channel = 4
+roughness_texture = ExtResource("Roughness")
+roughness_texture_channel = 4
+normal_texture = ExtResource("NormalGL")
+normal_enabled = true
+heightmap_texture = ExtResource("Displacement")
+heightmap_scale = 1.0
+heightmap_enabled = true
